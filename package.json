@@ -1,0 +1,14 @@
+{
+  "name": "mongoose",
+  "version": "1.0.0",
+  "description": "mongoose for using node js with mongodb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hrishi",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.3.2"
+  }
+}
